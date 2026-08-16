@@ -1,0 +1,69 @@
+.rvs-cards {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
+	margin: 20px 0;
+}
+
+.rvs-card {
+	flex: 1 1 200px;
+	background: #fff;
+	border: 1px solid #e2e4e7;
+	border-radius: 8px;
+	padding: 18px 20px;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.rvs-card h3 {
+	margin: 0 0 8px;
+	font-size: 14px;
+	color: #555;
+}
+
+.rvs-card .rvs-number {
+	font-size: 28px;
+	font-weight: 700;
+	color: #1e1e1e;
+}
+
+.rvs-section {
+	background: #fff;
+	border: 1px solid #e2e4e7;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 20px 0;
+}
+
+.rvs-section h2 {
+	margin-top: 0;
+}
+
+.rvs-chart-container {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.rvs-chart-container--small {
+	max-width: 500px;
+}
+
+.rvs-chart-container--tiny {
+	max-width: 400px;
+}
+
+.rvs-table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 15px;
+}
+
+.rvs-table th,
+.rvs-table td {
+	border-bottom: 1px solid #e2e4e7;
+	padding: 8px;
+	text-align: left;
+}
+
+.rvs-table th {
+	color: #555;
+}
