@@ -2,6 +2,8 @@
 
 Plugin WordPress simplu pentru statistici reale de trafic: vizitatori unici, pageviews, browsere, dispozitive și referreri, direct din dashboard-ul de admin, fără servicii externe și fără cookie-uri de tracking.
 
+`#wordpress` `#wordpress-plugin` `#analytics` `#visitor-stats` `#php` `#privacy-friendly` `#web-analytics` `#dashboard` `#seo` `#traffic-analytics`
+
 ## De ce
 
 Majoritatea plugin-urilor de analytics trimit datele către servere externe sau adaugă scripturi grele care încetinesc site-ul. Real Visitor Stats ține totul local, în baza de date proprie a WordPress-ului, cu un impact minim asupra performanței.
