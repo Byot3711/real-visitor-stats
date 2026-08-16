@@ -48,7 +48,7 @@ class RVS_Admin {
 
 		wp_enqueue_script(
 			'rvs-chartjs',
-			'https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js',
+			RVS_PLUGIN_URL . 'assets/js/vendor/chart.umd.min.js',
 			array(),
 			'4.4.1',
 			true
